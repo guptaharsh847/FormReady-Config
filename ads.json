@@ -1,7 +1,7 @@
 {
   "version": 1,
   "lastUpdated": "2026-08-14",
-  "adsEnabled": true,
+  "adsEnabled": false,
   "banner": {
     "enabled": true,
     "bottom": true
@@ -25,7 +25,7 @@
       "id": "promo_001",
       "enabled": true,
       "title": "Premium Exam Guide",
-      "description": "Get the latest study material for SSC exams.",
+      "description": " study material for SSC exams.",
       "imageUrl": "https://picsum.photos/536/354",
       "buttonText": "Check Now",
       "targetUrl": "facebook.com",
