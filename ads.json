@@ -7,14 +7,14 @@
     "bottom": true
   },
   "interstitial": {
-    "enabled": true,
+    "enabled": false,
     "process": true,
     "save": true,
     "share": true
   },
   "native": {
     "enabled": true,
-    "homeAfterQuickTools": true,
+    "homeAfterQuickTools": false,
     "homeAfterExams": true,
     "examListEnabled": true,
     "examListInterval": 4,
@@ -25,10 +25,10 @@
       "id": "promo_001",
       "enabled": true,
       "title": "Premium Exam Guide",
-      "description": " study material for SSC exams.",
-      "imageUrl": "https://example.com/images/promo_001.jpg",
+      "description": "Get the latest study material for SSC exams.",
+      "imageUrl": "https://example.com/image.png",
       "buttonText": "Check Now",
-      "targetUrl": "https://www.facebook.com",
+      "targetUrl": "https://facebook.com",
       "placement": "HOME"
     }
   ]
