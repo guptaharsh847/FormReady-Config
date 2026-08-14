@@ -3,18 +3,18 @@
   "lastUpdated": "2026-08-14",
   "adsEnabled": false,
   "banner": {
-    "enabled": true,
-    "bottom": false
+    "enabled": false,
+    "bottom": true
   },
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "process": true,
     "save": true,
     "share": true
   },
   "native": {
     "enabled": true,
-    "homeAfterQuickTools": false,
+    "homeAfterQuickTools": true,
     "homeAfterExams": true,
     "examListEnabled": true,
     "examListInterval": 4,
@@ -26,7 +26,7 @@
       "enabled": false,
       "title": "Premium Exam Guide",
       "description": "d df s.",
-      "imageUrl": "https://www.magnific.com/free-photos-vectors/jpg-file",
+      "imageUrl": "https://ibb.co/DD4bwRWx",
       "buttonText": "Check Now",
       "targetUrl": "https://facebook.com",
       "placement": "HOME"
