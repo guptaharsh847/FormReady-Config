@@ -4,7 +4,7 @@
   "adsEnabled": true,
   "banner": {
     "enabled": true,
-    "bottom": true
+    "bottom": false
   },
   "interstitial": {
     "enabled": false,
@@ -23,7 +23,7 @@
   "manualAds": [
     {
       "id": "promo_001",
-      "enabled": true,
+      "enabled": false,
       "title": "Premium Exam Guide",
       "description": "d df s.",
       "imageUrl": "https://www.magnific.com/free-photos-vectors/jpg-file",
