@@ -1,23 +1,23 @@
 {
-  "version": 1,
+  "version": 2,
   "lastUpdated": "2026-08-14",
   "adsEnabled": true,
   "banner": {
-    "enabled": false,
-    "bottom": false
+    "enabled": true,
+    "bottom": true
   },
   "interstitial": {
     "enabled": true,
-    "process": true,
+    "process": false,
     "save": true,
     "share": true
   },
   "native": {
     "enabled": true,
-    "homeAfterQuickTools": true,
-    "homeAfterExams": true,
+    "homeAfterQuickTools": false,
+    "homeAfterExams": false,
     "examListEnabled": true,
-    "examListInterval": 4,
+    "examListInterval": 3,
     "examDetailsBottom": true
   },
   "manualAds": [
