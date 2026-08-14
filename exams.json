@@ -1,0 +1,201 @@
+{
+  "version": 2,
+  "lastUpdated": "2026-08-13",
+  "exams": [
+    {
+      "id": "ssc_cgl",
+      "name": "SSC CGL",
+      "shortName": "CGL",
+      "description": "Combined Graduate Level Examination for various Group B and C posts.",
+      "organization": "Staff Selection Commission",
+      "category": "SSC",
+      "active": true,
+      "verified": true,
+      "verifiedAt": "2026-08-12",
+      "officialSource": "https://ssc.gov.in",
+      "requirements": [
+        {
+          "type": "PHOTO",
+          "displayName": "Photograph",
+          "enabled": true,
+          "required": true,
+          "minKb": 20,
+          "maxKb": 50,
+          "widthPx": 200,
+          "heightPx": 300,
+          "formats": ["JPG", "JPEG"],
+          "notes": "White or light background. Faces should be clear."
+        },
+        {
+          "type": "SIGNATURE",
+          "displayName": "Signature",
+          "enabled": true,
+          "required": true,
+          "minKb": 10,
+          "maxKb": 20,
+          "widthPx": 140,
+          "heightPx": 60,
+          "formats": ["JPG", "JPEG"],
+          "notes": "Signature on white background with black ink."
+        }
+      ]
+    },
+    {
+      "id": "ssc_chsl",
+      "name": "SSC CHSL",
+      "shortName": "CHSL",
+      "description": "Combined Higher Secondary Level (10+2) Examination.",
+      "organization": "Staff Selection Commission",
+      "category": "SSC",
+      "active": true,
+      "verified": false,
+      "requirements": [
+        {
+          "type": "PHOTO",
+          "displayName": "Photograph",
+          "enabled": true,
+          "required": true,
+          "minKb": 20,
+          "maxKb": 50,
+          "widthPx": 200,
+          "heightPx": 230,
+          "formats": ["JPG", "JPEG"],
+          "notes": "Recent passport size color photograph."
+        },
+        {
+          "type": "SIGNATURE",
+          "displayName": "Signature",
+          "enabled": true,
+          "required": true,
+          "minKb": 10,
+          "maxKb": 20,
+          "widthPx": 140,
+          "heightPx": 60,
+          "formats": ["JPG", "JPEG"]
+        }
+      ]
+    },
+    {
+      "id": "ibps_po",
+      "name": "IBPS PO",
+      "shortName": "PO",
+      "description": "Probationary Officers recruitment in Participating Banks.",
+      "organization": "Institute of Banking Personnel Selection",
+      "category": "Banking",
+      "active": true,
+      "verified": true,
+      "verifiedAt": "2026-08-12",
+      "officialSource": "https://ibps.in",
+      "requirements": [
+        {
+          "type": "PHOTO",
+          "displayName": "Photograph",
+          "enabled": true,
+          "required": true,
+          "minKb": 20,
+          "maxKb": 50,
+          "widthPx": 200,
+          "heightPx": 230,
+          "formats": ["JPG", "JPEG"]
+        },
+        {
+          "type": "SIGNATURE",
+          "displayName": "Signature",
+          "enabled": true,
+          "required": true,
+          "minKb": 10,
+          "maxKb": 20,
+          "widthPx": 140,
+          "heightPx": 60,
+          "formats": ["JPG", "JPEG"],
+          "notes": "Black ink on white paper."
+        },
+        {
+          "type": "THUMB_IMPRESSION",
+          "displayName": "Left Thumb Impression",
+          "enabled": true,
+          "required": true,
+          "minKb": 20,
+          "maxKb": 50,
+          "widthPx": 240,
+          "heightPx": 240,
+          "formats": ["JPG", "JPEG"],
+          "notes": "On white paper with black/blue ink."
+        }
+      ]
+    },
+    {
+      "id": "upsc_cse",
+      "name": "UPSC Civil Services (CSE)",
+      "shortName": "CSE",
+      "description": "Civil Services Examination for IAS, IPS, and other services.",
+      "organization": "Union Public Service Commission",
+      "category": "UPSC",
+      "active": true,
+      "verified": true,
+      "verifiedAt": "2026-08-12",
+      "officialSource": "https://upsc.gov.in",
+      "requirements": [
+        {
+          "type": "PHOTO",
+          "displayName": "Photograph",
+          "enabled": true,
+          "required": true,
+          "minKb": 20,
+          "maxKb": 300,
+          "widthPx": 350,
+          "heightPx": 350,
+          "formats": ["JPG", "JPEG"],
+          "notes": "Name and date must be on photo."
+        },
+        {
+          "type": "SIGNATURE",
+          "displayName": "Signature",
+          "enabled": true,
+          "required": true,
+          "minKb": 20,
+          "maxKb": 300,
+          "widthPx": 350,
+          "heightPx": 350,
+          "formats": ["JPG", "JPEG"]
+        }
+      ]
+    },
+    {
+      "id": "rrb_ntpc",
+      "name": "RRB NTPC",
+      "shortName": "NTPC",
+      "description": "Non-Technical Popular Categories recruitment in Railways.",
+      "organization": "Railway Recruitment Boards",
+      "category": "Railway",
+      "active": true,
+      "verified": true,
+      "verifiedAt": "2026-08-12",
+      "officialSource": "https://indianrailways.gov.in",
+      "requirements": [
+        {
+          "type": "PHOTO",
+          "displayName": "Photograph",
+          "enabled": true,
+          "required": true,
+          "minKb": 20,
+          "maxKb": 50,
+          "widthPx": 320,
+          "heightPx": 240,
+          "formats": ["JPG", "JPEG"]
+        },
+        {
+          "type": "SIGNATURE",
+          "displayName": "Signature",
+          "enabled": true,
+          "required": true,
+          "minKb": 10,
+          "maxKb": 20,
+          "widthPx": 140,
+          "heightPx": 60,
+          "formats": ["JPG", "JPEG"]
+        }
+      ]
+    }
+  ]
+}
