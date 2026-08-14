@@ -23,7 +23,7 @@
   "manualAds": [
     {
       "id": "promo_001",
-      "enabled": false,
+      "enabled": true,
       "title": "Premium Exam Guide",
       "description": "d df s.",
       "imageUrl": "https://ibb.co/DD4bwRWx",
