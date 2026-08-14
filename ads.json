@@ -26,9 +26,9 @@
       "enabled": true,
       "title": "Premium Exam Guide",
       "description": "Get the latest study material for SSC exams.",
-      "imageUrl": "https://example.com/image.png",
+      "imageUrl": "https://picsum.photos/536/354",
       "buttonText": "Check Now",
-      "targetUrl": "https://example.com/guide",
+      "targetUrl": "facebook.com",
       "placement": "HOME"
     }
   ]
